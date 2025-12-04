@@ -119,7 +119,6 @@ A complete ML pipeline with:
 
 ---
 
-# ⭐ **Option 2 — Emoji-Powered Clean Timeline (Aesthetic)**
 
 ```md
 ## ⏳ My Journey
