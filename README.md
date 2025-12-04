@@ -116,12 +116,20 @@ A complete ML pipeline with:
 
 ---
 
-## ⏳ My Journey (Timeline)
 
-2023 → Started B.Tech in AI & Data Science
-2024 → Built SyncUp • Started ML specialisation
-2025 → SER Project • AI Medical Chatbot • Career Ladder Internship
-2026 → Aim: Become a top AI/ML Engineer
+---
+
+# ⭐ **Option 2 — Emoji-Powered Clean Timeline (Aesthetic)**
+
+```md
+## ⏳ My Journey
+
+- 📘 **2023** — Started B.Tech in AI & Data Science  
+- 💻 **2024** — Built SyncUp • Started serious ML journey  
+- 🤖 **2025** — Worked on SER • AI Medical Chatbot • Internship  
+- 🚀 **2026** — Becoming a top AI/ML Engineer  
+
+
 
 
 
