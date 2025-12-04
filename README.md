@@ -1,75 +1,96 @@
 <h1 align="center">Hi 👋, I'm Aadhi Dharmar</h1>
-<h3 align="center">B.Tech AI & Data Science | ML Engineer | SER Specialist | App Developer</h3>
+<h3 align="center">AI/ML Engineer | B.Tech AI & Data Science | ML Model Developer Intern</h3>
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Multimodal AI, Speech Emotion Recognition, GenAI**
-- 👨‍💻 Building AI projects like **SER, AI Medical Chatbot, SyncUp**, and more  
-- 🎯 Goal: Become an **AI/ML Engineer** with strong research + deployment skills  
-- ⚡ Fun fact: I love **watches ⌚**, tech, and building cool UIs  
+## 🌟 About Me  
+I'm Aadhi Dharmar — a passionate **AI Developer** exploring the world of  
+**Machine Learning, Speech Emotion Recognition (SER), Deep Learning, NLP & GenAI**.  
+I love building intelligent systems that understand **audio, text, speech & emotions**.
+
+- 🔭 Working on: **Speech Emotion Recognition (SER)** using CNN  
+- 🌱 Learning: **Multimodal AI, GenAI, Fine-tuning, Model Deployment**  
+- 💼 Internship: **ML Model Developer — Career Ladder**  
+- 🧩 Interests: AI Research, UI Design, Mobile apps  
+- ⚡ Fun Fact: I'm a **watch enthusiast ⌚** and love building apps at midnight 😄  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
-### **AI & ML**
+### **Machine Learning & AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker,aws" />
 </p>
 
-### **Web & App Dev**
+### **Web/App Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,bootstrap" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🔹 **🎙️ Speech Emotion Recognition (SER)**
-- CNN-based audio emotion classifier  
-- Live audio prediction + Text-emotion fusion  
-- Flask UI + Model Deployment  
-🔗 *Repo:* *(Add repo link)*
+### 🎙️ **Speech Emotion Recognition (SER) — Ongoing**
+A deep learning model that identifies **emotions from speech** using  
+MFCC features, CNN architecture & real-time mic prediction.
 
----
-
-### 🔹 **💬 SyncUp – Chat & Social Connect App**
-- Real-time chat, account creation, posting system  
-- Insights dashboard, clean UI  
-🔗 *Repo:* *(Add repo link)*
+- 🔥 Live audio emotion prediction  
+- 🔠 Combined speech + text emotion fusion  
+- 🎛️ Backend: Python + TensorFlow  
+- 🌐 Frontend: Flask UI  
+🔗 Repo: *(Add after upload)*
 
 ---
 
-### 🔹 **🧠 AI Medical Chatbot (Hackathon Project)**
-- Built in 24 hours — secured **15th place**  
-- Symptom-based disease prediction using ML  
-🔗 *Repo:* *(Add repo link)*
+### 💬 **SyncUp — Social Chat App**
+A full-featured chat + social app with:
+
+- User login/signup  
+- Post creation & sharing  
+- Insights dashboard  
+- Real-time chat  
+🔗 Repo: *(Add after upload)*
 
 ---
 
-### 🔹 **📉 Customer Churn Prediction**
-- ML pipeline + EDA + deployment-ready notebook  
-🔗 *Repo:* *(Add repo link)*
+### 🏥 **AI Medical Chatbot (Hackathon Project — Top 15 Winner)**
+Built in a 24-hour hackathon challenge.
+
+- AI-based disease prediction  
+- Symptom analysis  
+- Conversational interface  
+🔗 Repo: *(Add after upload)*
+
+---
+
+### 📉 **Customer Churn Prediction**
+A complete ML pipeline with:
+
+- Data preprocessing  
+- EDA  
+- Feature engineering  
+- Model training & evaluation  
+🔗 Repo: *(Add after upload)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadhidharmar001&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhidharmar001&layout=compact&theme=tokyonight" height="180"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadhidharmar001&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhidharmar001&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -79,20 +100,48 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 Built multiple AI projects (SER, AI Chatbot, Churn Model)
-- 🏅 Hackathon Top 15 – Vellore Institute of Engineering & Technology
-- 🎓 ML Model Developer Intern at Career Ladder
-- 🔥 Contributor to several open-source AI projects
+- 🥇 Built advanced AI projects (SER, AI Medical Chatbot, SyncUp)  
+- 🏅 Secured **Top 15** at Vellore Institute Hackathon 2025  
+- 🎓 **ML Model Developer Intern** at Career Ladder  
+- 🔥 Strong portfolio in AI/ML application development  
 
 ---
 
-## 📜 Certificates
+## 🎓 Certifications  
 - Machine Learning  
-- Python  
+- Python Programming  
 - Deep Learning  
-- SQL & Data Analytics  
-*(Add certificate images or links)*
+- Data Analytics  
+- SQL  
 
 ---
 
-## ⏳ Timeline
+## ⏳ My Journey (Timeline)
+
+2023 → Started B.Tech in AI & Data Science
+2024 → Built SyncUp • Started ML specialisation
+2025 → SER Project • AI Medical Chatbot • Career Ladder Internship
+2026 → Aim: Become a top AI/ML Engineer
+
+
+
+---
+
+## ⌚ My Watch Collection  
+Because why not? 😄  
+- Brown Leather Watch  
+- Black Fastrack Rubber Strap  
+- Silver Casio Edifice  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/aadhi-dharmar-a35679293"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Aadhidharmar001"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+⭐ *If you like my work, consider following me and starring my repositories!*  
