@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Aadhi+Dharmar;Welcome+to+my+GitHub+Profile!;AI+%26+ML+Engineer+in+the+Making;Let's+Build+Something+Amazing+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=34&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Aadhi+Dharmar;Welcome+to+my+GitHub+Space;AI+%26+ML+Engineer+in+the+Making;Turning+Ideas+into+Intelligent+Systems+🚀" />
 </h1>
+
 
 </h1>
 <h1 align="center">Hi 👋, I'm Aadhi Dharmar</h1>
