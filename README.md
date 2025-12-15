@@ -1,3 +1,18 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Fira+Code
+    &size=32
+    &pause=1000
+    &color=58A6FF
+    &center=true
+    &vCenter=true
+    &width=650
+    &lines=Hi+👋%2C+I'm+Aadhi+Dharmar;
+           Welcome+to+my+GitHub+Profile!;
+           AI+%26+ML+Engineer+in+the+Making;
+           Let's+Build+Something+Amazing+🚀"
+  />
+</h1>
 <h1 align="center">Hi 👋, I'm Aadhi Dharmar</h1>
 <h3 align="center">AI/ML Engineer | B.Tech AI & Data Science | ML Model Developer Intern</h3>
 
