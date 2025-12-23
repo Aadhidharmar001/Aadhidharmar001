@@ -18,7 +18,7 @@ I love building intelligent systems that understand **audio, text, speech & emot
 - 🔭 Working on: **Speech Emotion Recognition (SER)** using CNN  
 - 🌱 Learning: **Multimodal AI, GenAI, Fine-tuning, Model Deployment**  
 - 💼 Internship: **ML Model Developer — Career Ladder**  
-- 🧩 Interests: AI Research, UI Design, Mobile apps  
+- 🧩 Interests: AI Research, ML Models 
 - ⚡ Fun Fact: I'm a **watch enthusiast ⌚** and love building apps at midnight 😄  
 
 ---
