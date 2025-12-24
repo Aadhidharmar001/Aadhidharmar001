@@ -57,7 +57,6 @@ MFCC features, CNN architecture & real-time mic prediction.
 - 🔠 Combined speech + text emotion fusion  
 - 🎛️ Backend: Python + TensorFlow  
 - 🌐 Frontend: Flask UI  
-🔗 Repo: *(Add after upload)*
 
 ---
 
@@ -67,8 +66,7 @@ A full-featured chat + social app with:
 - User login/signup  
 - Post creation & sharing  
 - Insights dashboard  
-- Real-time chat  
-🔗 Repo: *(Add after upload)*
+- Real-time chat 
 
 ---
 
@@ -78,7 +76,6 @@ Built in a 24-hour hackathon challenge.
 - AI-based disease prediction  
 - Symptom analysis  
 - Conversational interface  
-🔗 Repo: *(Add after upload)*
 
 ---
 
@@ -89,7 +86,7 @@ A complete ML pipeline with:
 - EDA  
 - Feature engineering  
 - Model training & evaluation  
-🔗 Repo: *(Add after upload)*
+🔗 Repo:(https://github.com/Aadhidharmar001/Customer-Churn-Prediction-ML-model)
 
 ---
 
