@@ -27,7 +27,7 @@ I love building intelligent systems that understand **audio, text, speech & emot
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
 </p>
 
 ### **Machine Learning & AI**
@@ -37,12 +37,12 @@ I love building intelligent systems that understand **audio, text, speech & emot
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker" />
 </p>
 
 ### **Web/App Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flask,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
