@@ -100,8 +100,10 @@ A complete ML pipeline with:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhidharmar001&theme=tokyonight" />
   
-</p>
+### 🌐 Portfolio
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge)](https://aadhiportfolio.vercel.app)
+
 
 
 ---
