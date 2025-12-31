@@ -37,7 +37,7 @@ I love building intelligent systems that understand **audio, text, speech & emot
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
 ### **Web/App Development**
