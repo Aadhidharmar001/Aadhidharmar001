@@ -207,7 +207,7 @@ https://github.com/Aadhidharmar001/Customer-Churn-Prediction-ML-model
 
 ## 🌐 AI Portfolio  
 
-[![Portfolio](https://img.shields.io/badge/AI%20Portfolio-Live-success?style=for-the-badge)](https://aadhiportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/AI%20Portfolio-Live-success?style=for-the-badge)](https://aadhidharmar-ai-engineer-portfolio.netlify.app/)
 
 ---
 
