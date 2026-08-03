@@ -28,3 +28,99 @@ I'm **Aadhi Dharmar**, an **AI Product Builder** passionate about building **pro
 - 🔄 **Self-Correcting Reflection Loops** — Automatic query re-evaluation & hallucination grading nodes.
 - 📊 **RAGAS & Model Fine-Tuning** — Automated precision scoring & domain-specific **LoRA/QLoRA** fine-tuning.
 - 🛡️ **AI Web Application Security** — Deep packet inspection and threat scoring with GuardWAF.
+---
+## 🛠️ Tech Stack & Tools
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Languages" />
+</p>
+### 🤖 Machine Learning, GenAI & Security
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML Stack" />
+</p>
+**GenAI & Security Tools:** `LangGraph` • `LangChain` • `ChromaDB` • `OpenAI GPT-4o` • `GuardWAF` • `BERT` • `HuggingFace`
+### ⚙️ Tools, Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,fastapi,flask,docker,git,github,linux,vscode" alt="Tools & Deploy" />
+</p>
+---
+## 📌 Featured AI Projects & Deployed Systems
+### 🧠 01. NeuralRAG — Stateful Agentic RAG System 🚀
+> **Stack**: `LangGraph` • `ChromaDB` • `OpenAI GPT-4o` • `Streamlit`
+- Production stateful graph architecture with router, vector retrieval, reranker, and LLM generation nodes.
+- `<800ms` average response time with 1536-dimensional OpenAI embeddings and grounded citation chips.
+- 🌐 **Live Production App**: [neuralrag.streamlit.app](https://neuralrag.streamlit.app/)
+---
+### 🛡️ 02. GuardWAF — AI Security Firewall & Proxy 🛡️
+> **Stack**: `PyTorch` • `FastAPI` • `AWS EC2` • `Scikit-Learn` • `Python`
+- Real-time deep packet inspector proxy protecting backend applications against OWASP Top 10 web vulnerabilities.
+- Sub-millisecond PyTorch anomaly detection, automated IP rate-limiting, and live threat telemetry map.
+- 🌐 **Live AWS Deployment**: [43.205.239.119:8000/static/index.html](http://43.205.239.119:8000/static/index.html)
+---
+### 🎙️ 03. Speech Emotion Recognition (SER) — Multimodal AI 🚀
+> **Stack**: `Python` • `TensorFlow/Keras` • `Librosa` • `CNN` • `Flask`
+- Deep learning system detecting human emotions from speech signals in real time using MFCC feature extraction.
+- Fuses audio feature representations with text sentiment analysis for enhanced emotional classification.
+---
+### 🏥 04. AI Medical Diagnostic Chatbot — VIT Hackathon Finalist 🏆
+> **Stack**: `LangChain` • `OpenAI` • `Streamlit`
+- Built under 24 hours during the **VIT National Hackathon** (Ranked 15th place out of hundreds of teams).
+- Symptom-based disease prediction with instant medical query processing.
+---
+### 📉 05. Customer Churn Prediction System
+> **Stack**: `Python` • `Scikit-Learn` • `Pandas` • `Seaborn`
+- End-to-end ML business analytics pipeline featuring data cleaning, EDA, feature engineering, and ensemble model tuning.
+- 🔗 **Repository**: [github.com/Aadhidharmar001/Customer-Churn-Prediction-ML-model](https://github.com/Aadhidharmar001/Customer-Churn-Prediction-ML-model)
+---
+### 💬 06. SyncUp — Social Networking Application
+> **Stack**: `JavaScript` • `HTML/CSS` • `Flask`
+- Full-stack social networking platform featuring secure user authentication, post sharing, and interactive messaging.
+---
+## 💼 Experience
+### **ML Model Developer Intern — Career Ladder**
+- Built end-to-end ML pipelines for real-world datasets.
+- Optimized model accuracy and inference speed for production deployment workflows.
+---
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadhidharmar001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhidharmar001&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhidharmar001&theme=tokyonight" alt="GitHub Streak" />
+</p>
+---
+## 🏆 Achievements & Certifications
+- 🥇 **Top 15 National Hackathon Winner** — VIT 24-Hour Hackathon
+- 💼 **ML Model Developer Intern** — Career Ladder
+- 🎓 **Certifications**: Machine Learning, Deep Learning, Python Programming, Data Analytics, SQL
+---
+## 📅 My Journey
+- **2023** — Started B.Tech AI & Data Science at Sri Shakthi Institute
+- **2024** — Built SyncUp & ML Foundations
+- **2025** — SER Project • VIT Hackathon 15th • Career Ladder Internship
+- **2026** — NeuralRAG (Streamlit) • GuardWAF (AWS) • Autonomous Multi-Agent Swarms & LoRA
+---
+## ⌚ Personal Note
+Watch Enthusiast 😄
+- Brown Leather Watch
+- Black Fastrack Rubber Strap
+- Silver Casio Edifice
+---
+## 📫 Connect With Me
+<p>
+  <a href="https://aadhidharmar-portfolio-1.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vscode" title="Portfolio" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/aadhi-dharmar-a35679293">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Aadhidharmar001">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  </a>
+</p>
+<p>
+  <b>Email</b>: <a href="mailto:dharmaraadhi@gmail.com">dharmaraadhi@gmail.com</a> | <b>Phone</b>: +91 6380072080
+</p>
+---
+⭐ **Follow me for AI projects, ML experiments & GenAI innovations!**
